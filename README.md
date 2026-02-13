@@ -62,26 +62,26 @@ include h4xt3rm.kitty
 
 | Name | Hex | Sample |
 |------|-----|--------|
-| Background | `#050D09` | █ |
-| Foreground | `#69F097` | █ |
-| Cursor | `#75F2C0` | █ |
-| Selection | `#ADFFCC` | █ |
-| Black (Ansi 0) | `#000000` | █ |
-| Red (Ansi 1) | `#FF6ECD` | █ |
-| Green (Ansi 2) | `#73F6B2` | █ |
-| Yellow (Ansi 3) | `#63FF7B` | █ |
-| Blue (Ansi 4) | `#50FF91` | █ |
-| Magenta (Ansi 5) | `#C27DFF` | █ |
-| Cyan (Ansi 6) | `#79FFF5` | █ |
-| White (Ansi 7) | `#C3FFBA` | █ |
-| Bright Black (Ansi 8) | `#000000` | █ |
-| Bright Red (Ansi 9) | `#F090A4` | █ |
-| Bright Green (Ansi 10) | `#75F2C0` | █ |
-| Bright Yellow (Ansi 11) | `#C3FC95` | █ |
-| Bright Blue (Ansi 12) | `#60C8F8` | █ |
-| Bright Magenta (Ansi 13) | `#DDB0F8` | █ |
-| Bright Cyan (Ansi 14) | `#A6D6FC` | █ |
-| Bright White (Ansi 15) | `#FFFFFF` | █ |
+| Background | `#050D09` | <span style="background-color: #050D09;">&nbsp;</span> |
+| Foreground | `#69F097` | <span style="background-color: #69F097;">&nbsp;</span> |
+| Cursor | `#75F2C0` | <span style="background-color: #75F2C0;">&nbsp;</span> |
+| Selection | `#ADFFCC` | <span style="background-color: #ADFFCC;">&nbsp;</span> |
+| Black (Ansi 0) | `#000000` | <span style="background-color: #000000;">&nbsp;</span> |
+| Red (Ansi 1) | `#FF6ECD` | <span style="background-color: #FF6ECD;">&nbsp;</span> |
+| Green (Ansi 2) | `#73F6B2` | <span style="background-color: #73F6B2;">&nbsp;</span> |
+| Yellow (Ansi 3) | `#63FF7B` | <span style="background-color: #63FF7B;">&nbsp;</span> |
+| Blue (Ansi 4) | `#50FF91` | <span style="background-color: #50FF91;">&nbsp;</span> |
+| Magenta (Ansi 5) | `#C27DFF` | <span style="background-color: #C27DFF;">&nbsp;</span> |
+| Cyan (Ansi 6) | `#79FFF5` | <span style="background-color: #79FFF5;">&nbsp;</span> |
+| White (Ansi 7) | `#C3FFBA` | <span style="background-color: #C3FFBA;">&nbsp;</span> |
+| Bright Black (Ansi 8) | `#000000` | <span style="background-color: #000000;">&nbsp;</span> |
+| Bright Red (Ansi 9) | `#F090A4` | <span style="background-color: #F090A4;">&nbsp;</span> |
+| Bright Green (Ansi 10) | `#75F2C0` | <span style="background-color: #75F2C0;">&nbsp;</span> |
+| Bright Yellow (Ansi 11) | `#C3FC95` | <span style="background-color: #C3FC95;">&nbsp;</span> |
+| Bright Blue (Ansi 12) | `#60C8F8` | <span style="background-color: #60C8F8;">&nbsp;</span> |
+| Bright Magenta (Ansi 13) | `#DDB0F8` | <span style="background-color: #DDB0F8;">&nbsp;</span> |
+| Bright Cyan (Ansi 14) | `#A6D6FC` | <span style="background-color: #A6D6FC;">&nbsp;</span> |
+| Bright White (Ansi 15) | `#FFFFFF` | <span style="background-color: #FFFFFF;">&nbsp;</span> |
 
 ---
 
