@@ -1,0 +1,28 @@
+{
+  "name": "h4xt3rm",
+  "description": "A neon green-on-black terminal theme with colorful accents, for a futuristic aesthetic",
+  "background": "#050D09",
+  "foreground": "#69F097",
+  "cursor": "#75F2C0",
+  "cursor_text": "#050D09",
+  "selection_background": "#ADFFCC",
+  "selection_foreground": "#050D09",
+  "colors": {
+    "black": "#000000",
+    "red": "#FF6ECD",
+    "green": "#73F6B2",
+    "yellow": "#63FF7B",
+    "blue": "#50FF91",
+    "magenta": "#C27DFF",
+    "cyan": "#79FFF5",
+    "white": "#C3FFBA",
+    "bright_black": "#000000",
+    "bright_red": "#F090A4",
+    "bright_green": "#75F2C0",
+    "bright_yellow": "#C3FC95",
+    "bright_blue": "#60C8F8",
+    "bright_magenta": "#DDB0F8",
+    "bright_cyan": "#A6D6FC",
+    "bright_white": "#FFFFFF"
+  }
+}

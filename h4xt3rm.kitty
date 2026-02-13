@@ -1,0 +1,55 @@
+# h4xt3rm Kitty Theme
+# Converted from h4xt3rm.itermcolors
+
+foreground #69F097
+background #050D09
+selection_foreground #050D09
+selection_background #ADFFCC
+
+# Cursor
+cursor #75F2C0
+cursor_text_color #050D09
+
+# ANSI Colors
+color0 #000000
+color1 #FF6ECD
+color2 #73F6B2
+color3 #63FF7B
+color4 #50FF91
+color5 #C27DFF
+color6 #79FFF5
+color7 #C3FFBA
+
+# Bright ANSI Colors
+color8 #000000
+color9 #F090A4
+color10 #75F2C0
+color11 #C3FC95
+color12 #60C8F8
+color13 #DDB0F8
+color14 #A6D6FC
+color15 #FFFFFF
+
+# Extended colors
+color16 #FF6ECD
+color17 #F090A4
+
+# Tab bar
+tab_bar_background #050D09
+tab_bar_active_tab_background #050D09
+tab_bar_active_tab_foreground #69F097
+tab_bar_inactive_tab_background #050D09
+tab_bar_inactive_tab_foreground #69F097
+
+# Window borders
+bell_border_color #79FFF5
+inactive_border_color #69F097
+active_border_color #75F2C0
+
+# Marks
+mark1_foreground #050D09
+mark1_background #75F2C0
+mark2_foreground #050D09
+mark2_background #C3FC95
+mark3_foreground #050D09
+mark3_background #79FFF5

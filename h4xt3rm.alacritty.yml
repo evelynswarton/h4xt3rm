@@ -1,0 +1,62 @@
+# h4xt3rm Alacritty Theme
+# Converted from h4xt3rm.itermcolors
+
+colors:
+  primary:
+    background: '#050D09'
+    foreground: '#69F097'
+    dim_foreground: '#69F097'
+    bright_foreground: '#69F097'
+  cursor:
+    text: '#050D09'
+    cursor: '#75F2C0'
+  vi_mode_cursor:
+    text: '#050D09'
+    cursor: '#75F2C0'
+  search:
+    matches:
+      foreground: '#050D09'
+      background: '#75F2C0'
+    focused_match:
+      foreground: '#050D09'
+      background: '#C3FC95'
+  hints:
+    start:
+      foreground: '#050D09'
+      background: '#79FFF5'
+    end:
+      foreground: '#69F097'
+      background: '#050D09'
+  selection:
+    text: '#050D09'
+    background: '#ADFFCC'
+  normal:
+    black: '#000000'
+    red: '#FF6ECD'
+    green: '#73F6B2'
+    yellow: '#63FF7B'
+    blue: '#50FF91'
+    magenta: '#C27DFF'
+    cyan: '#79FFF5'
+    white: '#C3FFBA'
+  bright:
+    black: '#000000'
+    red: '#F090A4'
+    green: '#75F2C0'
+    yellow: '#C3FC95'
+    blue: '#60C8F8'
+    magenta: '#DDB0F8'
+    cyan: '#A6D6FC'
+    white: '#FFFFFF'
+  dim:
+    black: '#000000'
+    red: '#994066'
+    green: '#47986E'
+    yellow: '#3F994C'
+    blue: '#32995A'
+    magenta: '#784E99'
+    cyan: '#4A9999'
+    white: '#7A9977'
+  indexed_colors:
+    - { index: 16, color: '#FF6ECD' }
+    - { index: 17, color: '#F090A4' }
